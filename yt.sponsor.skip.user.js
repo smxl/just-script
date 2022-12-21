@@ -12,7 +12,7 @@
 // @match        *://*.youtube.com/*
 // @exclude      *://*.youtube.com/subscribe_embed?*
 // ==/UserScript==
-const tryFetchSkipSegments = async (videoID) => {
+const fetchSkips = async (videoID) => {
   try {
     const response = await fetch(`https://sponsor.ajay.app/api/skipSegments?videoID=${videoID}`);
     const rJson = await response.json();
@@ -24,7 +24,7 @@ const tryFetchSkipSegments = async (videoID) => {
     });
     return segments;
   } catch (e) {
-    console.log(`Sponsor Skip: failed fetching skip Segments for ${videoID}, reason: ${e}`);
+    console.log(`Sponsor skip failed for ${videoID}, reason: ${e}`);
     return [];
   }
 };
@@ -37,13 +37,13 @@ const skipSegments = () => {
     return;
   }
   const key = `segmentsToSkip-${videoID}`;
-  window[key] = window[key] || tryFetchSkipSegments(videoID);
+  window[key] = window[key] || fetchSkips(videoID);
   document.querySelectorAll('video').forEach((v) => {
     if (Number.isNaN(v.duration)) return;
     window[key].forEach(([start, end]) => {
       if (v.currentTime < end && v.currentTime > start) {
         v.currentTime = end;
-        console.log(`Sponsor Skip: skipped video to ${end}`);
+        console.log(`Sponsor skipped to ${end}`);
       }
     });
   });
