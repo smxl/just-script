@@ -1,11 +1,14 @@
 // ==UserScript==
 // @name         YouTube Sponsor Skip
-// @namespace    https://github.com/smxl
+// @description  Sponsor Skip for YouTube
+// @name:zh-CN          YouTube 去广告
+// @description:zh-CN   YouTube 广告自动跳过
 // @version      1.0.0
 // @description  YouTube Sponsor Skip
 // @updateURL    https://github.com/smxl/YouTube-Sponsor-Skip/raw/main/yt.sponsor.skip.user.js
 // @downloadURL  https://github.com/smxl/YouTube-Sponsor-Skip/raw/main/yt.sponsor.skip.user.js
 // @author       smxl
+// @license      MIT
 // @match        *://*.youtube.com/*
 // @exclude      *://*.youtube.com/subscribe_embed?*
 // ==/UserScript==
