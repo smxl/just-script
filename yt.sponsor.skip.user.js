@@ -3,6 +3,8 @@
 // @namespace    https://github.com/smxl
 // @version      1.0.0
 // @description  YouTube Sponsor Skip
+// @updateURL    https://github.com/smxl/YouTube-Sponsor-Skip/raw/main/yt.sponsor.skip.user.js
+// @downloadURL  https://github.com/smxl/YouTube-Sponsor-Skip/raw/main/yt.sponsor.skip.user.js
 // @author       smxl
 // @match        *://*.youtube.com/*
 // @exclude      *://*.youtube.com/subscribe_embed?*
