@@ -3,14 +3,18 @@
 // @description  Sponsor Skip for YouTube
 // @name:zh-CN          YouTube 去广告
 // @description:zh-CN   YouTube 广告自动跳过
-// @version      1.0.0
+// @version      1.0.1
 // @description  YouTube Sponsor Skip
+// @namespace    https://github.com/smxl
+// @home         https://github.com/smxl
+// @supportURL   https://github.com/smxl/YouTube-Sponsor-Skip/issues
 // @updateURL    https://github.com/smxl/YouTube-Sponsor-Skip/raw/main/yt.sponsor.skip.user.js
 // @downloadURL  https://github.com/smxl/YouTube-Sponsor-Skip/raw/main/yt.sponsor.skip.user.js
+// @icon         
 // @author       smxl
 // @license      MIT
-// @match        *://*.youtube.com/*
-// @exclude      *://*.youtube.com/subscribe_embed?*
+// @match        https://*.youtube.com/watch*
+// @exclude      https://*.youtube.com/subscribe_embed?*
 // ==/UserScript==
 const fetchSkips = async (videoID) => {
   try {
