@@ -6,7 +6,9 @@
 
 链接: ```https://github.com/smxl/youtube-sponsor-skip/raw/main/yt.sponsor.skip.user.js```
 
-短链接: ```https://yss.vercel.app/user.js```
+url: ```https://yss.vercel.app/user.js```
+
+url: ```https://yss.vercel.app/greasyfork```
 
 支持 AdGuard, 油猴 Tampermonkey, 暴力猴 Violentmonkey
 
