@@ -1,6 +1,6 @@
 {
     "redirects": [
-      { "source": "/user.js", "https://github.com/smxl/youtube-sponsor-skip/raw/main/yt.sponsor.skip.user.js" },
+      { "source": "/user.js", "destination": "https://github.com/smxl/youtube-sponsor-skip/raw/main/yt.sponsor.skip.user.js" },
       { "source": "/gf", "destination": "https://greasyfork.org/zh-CN/scripts/456946-youtube-sponsor-skip" },
       { "source": "/greasyfork", "destination": "https://greasyfork.org/scripts/456946-youtube-sponsor-skip/code/YouTube%20Sponsor%20Skip.user.js" }
     ],
