@@ -4,17 +4,16 @@
 // @name:zh-CN          YouTube 去广告
 // @description:zh-CN   YouTube 广告自动跳过
 // @version      1.0.1
-// @description  YouTube Sponsor Skip
 // @namespace    https://github.com/smxl
-// @home         https://github.com/smxl
 // @updateURL    https://github.com/smxl/Useful-User-JS/raw/main/yt.sponsor.skip.user.js
 // @downloadURL  https://github.com/smxl/Useful-User-JS/raw/main/yt.sponsor.skip.user.js
-// @icon         
+// @icon
 // @author       smxl
 // @license      MIT
 // @match        https://*.youtube.com/watch*
 // @exclude      https://*.youtube.com/subscribe_embed?*
 // ==/UserScript==
+
 const fetchSkips = async (videoID) => {
   try {
     const response = await fetch(`https://sponsor.ajay.app/api/skipSegments?videoID=${videoID}`);
