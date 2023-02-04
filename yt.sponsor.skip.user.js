@@ -7,9 +7,8 @@
 // @description  YouTube Sponsor Skip
 // @namespace    https://github.com/smxl
 // @home         https://github.com/smxl
-// @supportURL   https://github.com/smxl/YouTube-Sponsor-Skip/issues
-// @updateURL    https://github.com/smxl/YouTube-Sponsor-Skip/raw/main/yt.sponsor.skip.user.js
-// @downloadURL  https://github.com/smxl/YouTube-Sponsor-Skip/raw/main/yt.sponsor.skip.user.js
+// @updateURL    https://github.com/smxl/Useful-User-JS/raw/main/yt.sponsor.skip.user.js
+// @downloadURL  https://github.com/smxl/Useful-User-JS/raw/main/yt.sponsor.skip.user.js
 // @icon         
 // @author       smxl
 // @license      MIT
