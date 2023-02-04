@@ -13,6 +13,7 @@
 // ==/UserScript==
 
 (function() {
+    'use strict';
     const blockedUsers = ["🇨🇳"];
     const styles = blockedUsers.map(key => {
         return `
