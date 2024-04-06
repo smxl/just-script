@@ -5,8 +5,8 @@
 // @description:zh-CN   YouTube 广告自动跳过
 // @version      1.0.1
 // @namespace    https://github.com/smxl
-// @updateURL    https://github.com/smxl/Useful-User-JS/raw/main/yt.sponsor.skip.user.js
-// @downloadURL  https://github.com/smxl/Useful-User-JS/raw/main/yt.sponsor.skip.user.js
+// @updateURL    https://github.com/smxl/just-script/raw/main/yt.sponsor.skip.user.js
+// @downloadURL  https://github.com/smxl/just-script/raw/main/yt.sponsor.skip.user.js
 // @icon
 // @author       smxl
 // @license      MIT
