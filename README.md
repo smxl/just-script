@@ -2,8 +2,6 @@
 
 ## YouTube Sponsor Skip
 
-Greasyfork: https://greasyfork.org/zh-CN/scripts/456946-youtube-sponsor-skip
-
 YouTube Sponsor Skip, Sponsor Skip for YouTube
 
 YouTube Sponsor Skip 去广告, YouTube 广告自动跳过
@@ -29,8 +27,6 @@ Ad Removal API: https://sponsor.ajay.app
 去广告 API: https://sponsor.ajay.app
 
 ### LMHTFY
-
-Greasyfork: https://greasyfork.org/zh-CN/scripts/459421-let-me-hide-that-for-you-on-twitter
 
 Let Me Hide That for You on Twitter
 
