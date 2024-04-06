@@ -14,9 +14,9 @@ Usage: Add to your favorite script manager
 
 用法: 在你喜欢的脚本管理器中添加即可
 
-Link: hhttps://github.com/smxl/Useful-User-JS/raw/main/yt.sponsor.skip.user.js
+Link: https://github.com/smxl/just-script/raw/main/yt.sponsor.skip.user.js
 
-链接: https://github.com/smxl/Useful-User-JS/raw/main/yt.sponsor.skip.user.js
+链接: https://github.com/smxl/just-script/raw/main/yt.sponsor.skip.user.js
 
 Support AdGuard, Tampermonkey, Violentmonkey
 
@@ -36,17 +36,17 @@ LMHTFY, Hide users on Twitter if their username contains keyword, default: 🇨�
 
 LMHTFY, 如果用户的用户名包含关键字，则在 Twitter 上隐藏用户, 默认: 🇨🇳
 
-Source: https://github.com/smxl/Useful-User-JS
+Source: https://github.com/smxl/just-script
 
-开源: https://github.com/smxl/Useful-User-JS
+开源: https://github.com/smxl/just-script
 
 Usage: Add to your favorite script manager
 
 用法: 在你喜欢的脚本管理器中添加即可
 
-Link: https://github.com/smxl/Useful-User-JS/raw/main/lmhtfy.user.js
+Link: https://github.com/smxl/just-script/raw/main/lmhtfy.user.js
 
-链接: https://github.com/smxl/Useful-User-JS/raw/main/lmhtfy.user.js
+链接: https://github.com/smxl/just-script/raw/main/lmhtfy.user.js
 
 Support AdGuard, Tampermonkey, Violentmonkey
 
